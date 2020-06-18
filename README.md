@@ -11,10 +11,9 @@ In this project, **Popular Movies** app allows users to discover the most popula
 
 ## Libraries
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture/) 
-    * [Paging](https://developer.android.com/topic/libraries/architecture/paging/) 
-    * [Room](https://developer.android.com/topic/libraries/architecture/room)
     * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
     * [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
+    * [Paging](https://developer.android.com/topic/libraries/architecture/paging/) 
 - [AndroidX](https://developer.android.com/jetpack/androidx/) 
 - [Android Data Binding](https://developer.android.com/topic/libraries/data-binding/)
 - [Retrofit 2](http://square.github.io/retrofit/)
@@ -29,7 +28,7 @@ public static final String API_KEY="<API_KEY>"
 
 ## Screenshots
 
-| Main Screen | Detail Screen |  Settings Screen |
+| Main Screen | Movie Details |  Settings Screen |
 |:-:|:-:|:-:|
 | ![1](demo/main_screen.png?raw=true) | ![2](demo/detail_screen.png?raw=true) | ![3](demo/settings_screen.png?raw=true) |
 
