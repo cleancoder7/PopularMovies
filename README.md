@@ -31,4 +31,5 @@ public static final String API_KEY="<API_KEY>"
 | Main Screen | Movie Details |  Settings Screen |
 |:-:|:-:|:-:|
 | ![1](demo/main_screen.png?raw=true) | ![2](demo/detail_screen.png?raw=true) | ![3](demo/settings_screen.png?raw=true) |
-
+| No Network Connection |
+| ![4](demo/no_network_screen.png?raw=true) |
