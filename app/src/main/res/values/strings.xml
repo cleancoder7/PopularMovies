@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to the Preferences-->
+    <string name="pref_sort_by_label">Sort By</string>
+    <string name="pref_sort_by_key" translatable="false">sort_by</string>
+
+    <string name="pref_sort_by_default" translatable="false">popular</string>
+
+    <string name="pref_sort_by_label_popular">Popular</string>
+    <string name="pref_sort_by_label_top_rated">Top Rated</string>
+
+    <string name="pref_sort_by_popular" translatable="false">popular</string>
+    <string name="pref_sort_by_top_rated" translatable="false">top_rated</string>
+
+    <!-- Strings related to the network-->
+    <string name="no_network_title">No Internet Connection Found</string>
+    <string name="no_network_message">Check your connection and try again.</string>
+    <string name="retry">Retry</string>
+</resources>
