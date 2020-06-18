@@ -31,5 +31,5 @@ public static final String API_KEY="<API_KEY>"
 
 | Main Screen | Detail Screen |  Settings Screen |
 |:-:|:-:|:-:|
-| ![1](demo/main_screen.jpg?raw=true) | ![2](demo/detail_screen?raw=true) | ![3](demo/settings_screen.jpg?raw=true) |
+| ![1](demo/main_screen.png?raw=true) | ![2](demo/detail_screen.png?raw=true) | ![3](demo/settings_screen.png?raw=true) |
 
