@@ -7,7 +7,7 @@
 
         <variable
             name="movie"
-            type="com.example.popularmoviesstage1.models.Movie" />
+            type="com.example.popularmovies.model.Movie" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
@@ -48,9 +48,9 @@
                     android:id="@+id/toolbar"
                     android:layout_width="match_parent"
                     android:layout_height="?attr/actionBarSize"
+                    android:background="#59000000"
                     app:layout_collapseMode="pin"
                     app:navigationIcon="?attr/homeAsUpIndicator" />
-
             </com.google.android.material.appbar.CollapsingToolbarLayout>
         </com.google.android.material.appbar.AppBarLayout>
 
