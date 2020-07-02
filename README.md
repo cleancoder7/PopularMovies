@@ -35,7 +35,7 @@ In this project, **Popular Movies** app allows users to discover the most popula
 Make sure to insert your TheMovieDb API Key inside `gradle.properties` file.
 
 ```
-API_KEY=<API_KEY>"
+API_KEY="<API_KEY>"
 ```
 
 ## Screenshots
