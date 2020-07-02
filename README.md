@@ -50,6 +50,6 @@ API_KEY=<API_KEY>"
 ### Stage-2
 | Main Screen | Movie Details |  Settings Screen |
 |:-:|:-:|:-:|
-| ![1](demo/main_screen_stage2.png?raw=true) | ![2](demo/detail_screen_details_stage2.png?raw=true) | ![3](demo/settings_screen_stage2.png?raw=true) |
+| ![1](demo/main_screen_stage2.png?raw=true) | ![2](demo/detail_screen_stage2.png?raw=true) | ![3](demo/settings_screen_stage2.png?raw=true) |
 | Cast & Trailers | Reviews | No Network Connection |
-| ![4](demo/cast_and_trailers_stage2.png?raw=true) | ![5](demo/reviews_stage2.png?raw=true) | ![6](demo/no_network_screen_stage2.png?raw=true) |
+| ![4](demo/cast_and_trailer_stage2.png?raw=true) | ![5](demo/reviews_stage2.png?raw=true) | ![6](demo/no_network_screen_stage2.png?raw=true) |
